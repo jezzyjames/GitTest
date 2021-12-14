@@ -21,5 +21,9 @@ class ViewController: UIViewController {
     func sayHelloAgain() {
         print("say hello again!!")
     }
+    
+    func shout() {
+        print("Hello!!!!!!!!!!!!!!!!!")
+    }
 
 }
