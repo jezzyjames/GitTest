@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     }
     
     func shout() {
-        print("Hello!!!!!!!!!!!!!!!!!")
+        print("Hello!!!!!!!!!!")
     }
 
 }
