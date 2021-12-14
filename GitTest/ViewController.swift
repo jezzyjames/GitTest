@@ -18,5 +18,8 @@ class ViewController: UIViewController {
         label.text = hello
     }
 
+    func sayHelloAgain() {
+        print("say hello again!!")
+    }
 
 }
